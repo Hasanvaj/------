@@ -1,11 +1,11 @@
 module.exports.config = {
-  name: "hot🥵",
+  name: "সেক্স",
   version: "1.0.0",
   hasPermssion: 0,
   credits: "SHAHADAT SAHU",
-  description: "hot video",
+  description: "সেক্স video",
   commandCategory: "admin",
-  usages: "horny + hot + sex vedio",
+  usages: "horny + sx + sex vedio",
   cooldowns: 5,
   dependencies: {
     request: '',
